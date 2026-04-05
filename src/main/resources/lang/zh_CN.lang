@@ -1,9 +1,9 @@
 item.ItemStalactiteDagger.name=钟乳石匕首
 item.ItemStalagmiteDagger.name=石笋匕首
-item.SpawnSmallBrownSpider.name=生成小型棕色蜘蛛
-item.SpawnBrownSpider.name=生成棕色蜘蛛
-item.SpawnLargeBrownSpider.name=生成巨型棕色蜘蛛
-item.SpawnGlowSlime.name=生成发光史莱姆
+item.SpawnSmallBrownSpider.name=生成 小型棕色蜘蛛
+item.SpawnBrownSpider.name=生成 棕色蜘蛛
+item.SpawnLargeBrownSpider.name=生成 巨型棕色蜘蛛
+item.SpawnGlowSlime.name=生成 发光史莱姆
 item.glowSoup.name=发光炖菜
 
 tile.sandStalactiteBlock0.name=砂柱
