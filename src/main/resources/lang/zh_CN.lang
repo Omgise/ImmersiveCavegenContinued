@@ -4,7 +4,7 @@ item.SpawnSmallBrownSpider.name=生成 小棕蜘蛛
 item.SpawnBrownSpider.name=生成 棕蜘蛛
 item.SpawnLargeBrownSpider.name=生成 大棕蜘蛛
 item.SpawnGlowSlime.name=生成 荧光史莱姆
-item.glowSoup.name=荧光炖菜
+item.glowSoup.name=荧光炖汤
 
 tile.sandStalactiteBlock0.name=沙柱
 tile.sandStalactiteBlock1.name=沙钟乳石
